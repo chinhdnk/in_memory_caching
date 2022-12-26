@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCacheSRC", "InMemoryCacheSRC\InMemoryCacheSRC.csproj", "{BB4A62C7-84FF-4E27-B6E1-7C232B7C23FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4A62C7-84FF-4E27-B6E1-7C232B7C23FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4A62C7-84FF-4E27-B6E1-7C232B7C23FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4A62C7-84FF-4E27-B6E1-7C232B7C23FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4A62C7-84FF-4E27-B6E1-7C232B7C23FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {874F2861-3060-4058-B671-C1578BAFDC14}
+	EndGlobalSection
+EndGlobal
